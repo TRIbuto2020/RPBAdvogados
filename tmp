@@ -1,0 +1,8 @@
+footer { display: flex; flex-direction: column; align-items: center; gap: 12px;
+margin-top: 32px; background-color: var(--dark-color); border-radius:
+var(--border-radius); padding: 16px; } .privacy { display: flex;
+justify-content: space-between; gap: 16px; align-items: center; } /* Disclaimer
+*/ .disclaimer { background-color: #f8dcd752; padding: 12px; border-radius:
+var(--border-radius); border-left: 4px solid #dc35468e; text-align: center; }
+.disclaimer h3 { color: #721c24; margin-top: 0; } .disclaimer p { color:
+#721c24; font-size: 0.7rem; }
