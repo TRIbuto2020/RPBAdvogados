@@ -328,7 +328,7 @@ li {
 
 /* Disclaimer */
 .disclaimer {
-  background-color: #ecb3a97e;
+  background-color: #ecb3a9c4;
   padding: 12px;
   border-radius: var(--border-radius);
   border-left: 4px solid #dc35468e;
@@ -346,6 +346,7 @@ li {
   color: #721c24;
   transform: skew(21deg);
   font-size: 0.7rem;
+  font-weight: 700;
 }
 
 .copyright p {
